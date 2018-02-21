@@ -1,0 +1,31 @@
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.exe.config
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.exe
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.pdb
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.xml
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.vbprojResolveAssemblyReference.cache
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time_Value_Mapper.frmMain.resources
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time_Value_Mapper.Resources.resources
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.vbproj.GenerateResource.Cache
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.vbproj.CoreCompileInputs.cache
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.exe
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.xml
+C:\Users\CJC.JPRS\source\repos\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.pdb
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.exe.config
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.exe.manifest
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.application
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.exe
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.pdb
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.xml
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.exe.CodeAnalysisLog.xml
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\bin\Debug\Time Value Mapper.exe.lastcodeanalysissucceeded
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.vbproj.ResolveComReference.cache
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time_Value_Mapper.frmImportFile.resources
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time_Value_Mapper.frmMain.resources
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time_Value_Mapper.Resources.resources
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.vbproj.GenerateResource.Cache
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.vbproj.CoreCompileInputs.cache
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.exe.manifest
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.application
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.exe
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.xml
+C:\Users\CJC.JPRS\Documents\Visual Studio 2017\Projects\Time Value Mapper\Time Value Mapper\obj\Debug\Time Value Mapper.pdb

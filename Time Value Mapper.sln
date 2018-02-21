@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Time Value Mapper", "Time Value Mapper\Time Value Mapper.vbproj", "{1C63F0E5-B786-4BF8-A221-5E82E7346616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C63F0E5-B786-4BF8-A221-5E82E7346616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C63F0E5-B786-4BF8-A221-5E82E7346616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C63F0E5-B786-4BF8-A221-5E82E7346616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C63F0E5-B786-4BF8-A221-5E82E7346616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F0DCED-2749-4B5B-8C90-B23D297F2E41}
+	EndGlobalSection
+EndGlobal
